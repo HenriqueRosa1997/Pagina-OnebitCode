@@ -4,4 +4,4 @@
 ![Captura de tela de 2022-06-17 19-00-45](https://user-images.githubusercontent.com/53490825/174413193-63876ff2-d18f-4a43-aa39-235087d06321.png)
 ![Captura de tela de 2022-06-17 19-00-55](https://user-images.githubusercontent.com/53490825/174413190-18f28290-9150-44a6-b3a5-e428ebdb03aa.png)
 # DesafioOnebitCode
- DesafioOnebitCode site responsivo usando grid e media queries
+Desafio do curso OnebitCode em fazer um site responsivo, no qual utilizava-se grid layout e media queries
