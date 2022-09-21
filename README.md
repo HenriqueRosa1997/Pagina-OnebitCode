@@ -1,5 +1,5 @@
-# DesafioOnebitCode
-Desafio do curso OnebitCode em fazer um site responsivo, no qual utilizava-se grid layout e media queries
+# Desafio do curso OnebitCode:
+-Foi proposto a criação de um site responsivo utilizando grid layout e media queries
 
 ![one](https://user-images.githubusercontent.com/53490825/174413202-d4bce0e8-ebdd-4cdc-91ea-178324d8fb68.png)
 ![Captura de tela de 2022-06-17 19-00-27](https://user-images.githubusercontent.com/53490825/174413195-2d3864d5-aa7e-4fe0-a52e-2d6c0fc58b27.png)
